@@ -1,0 +1,23 @@
+*{
+    margin: 5;
+    padding: 5;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #241a1a;
+}
+
+h1{
+    color: white;
+}
+
+ol{
+    color: white;
+}
+.image{
+    margin: 0px;
+    padding: 0px;
+    width: 30%;
+    height: 30%;
+}
